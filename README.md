@@ -1,4 +1,8 @@
-### Hi there 👋
+<img align="left" src="https://github.com/izaRibeiro/izaRibeiro/blob/master/octocat.png" width="200">
+
+#### :mortar_board: Student at If Sudeste MG
+#### :rocket: Ready to learn
+#### :fries: Most important: Fries is the best thing in the world
 
 <!--
 **izaRibeiro/izaRibeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
