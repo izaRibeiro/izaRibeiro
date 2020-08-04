@@ -2,7 +2,7 @@
 
 #### :mortar_board: Student at If Sudeste MG
 #### :rocket: Ready to learn
-#### :fries: Most important: Fries is the best thing in the world
+#### :fries: Most important: Fries are the best thing in the world
 
 <!--
 **izaRibeiro/izaRibeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
