@@ -11,7 +11,6 @@ My biggest experiences
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=izaRibeiro&show_icons=true&theme=radical)
 
 
 
